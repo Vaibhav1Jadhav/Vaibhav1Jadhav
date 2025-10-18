@@ -55,6 +55,7 @@ To leverage my skills in **AWS and DevOps** to design scalable, automated infras
 ---
 
 ## 🏅 Certifications  
+- **AWS Certified Solutions Architect - Associate (SAA-C03)** – AWS  
 - **Career Essentials in System Administration** – Microsoft & LinkedIn  
 - **PC Architecture & Networking** – Maharashtra Business Training Board  
 - **H+ N+ (PC Maintenance)** – MSBTE  
