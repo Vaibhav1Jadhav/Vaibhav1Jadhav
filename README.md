@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Vaibhav Jadhav  
-### Senior DevOps Engineer | Cloud Infrastructure & Automation Specialist
+###  DevOps Engineer | Cloud Infrastructure & Automation Specialist
 
-🚀 **Overview** I am a **Senior DevOps Engineer** with over 5 years of experience building and managing large-scale infrastructure. I specialize in **AWS**, **Kubernetes**, and **Automation**. My focus is on creating systems that are reliable, secure, and easy to scale. Currently, I am leading the cloud migration for a **GPS Tracking Framework** designed to handle over **100,000 active devices**.
+🚀 **Overview** I am a ** DevOps Engineer** with over 5 years of experience building and managing large-scale infrastructure. I specialize in **AWS**, **Kubernetes**, and **Automation**. My focus is on creating systems that are reliable, secure, and easy to scale. Currently, I am leading the cloud migration for a **GPS Tracking Framework** designed to handle over **100,000 active devices**.
 
 ---
 
@@ -21,7 +21,7 @@
 
 ## 📈 Professional Experience & Key Projects
 
-### 🚀 Senior DevOps Engineer | Shauryatechnosoft
+### 🚀  DevOps Engineer | Shauryatechnosoft
 *June 2024 – Present*
 - **High-Scale Infrastructure:** Architecting and deploying a GPS tracking system on **AWS EKS** to support 100k+ concurrent IoT devices.
 - **IoT Clustering:** Orchestrated High-Availability **EMQX** and **Redis Sentinel** clusters using Ansible for 99.9% uptime.
