@@ -1,82 +1,59 @@
-# 👋 Hi there, I'm **Vaibhav Jadhav**  
+# 👋 Hi, I'm Vaibhav Jadhav  
+### Senior DevOps Engineer | Cloud Infrastructure & Automation Specialist
 
-🚀 **AWS | DevOps Engineer** with 5+ years of experience in cloud infrastructure, automation, and CI/CD pipelines.
-
----
-
-## 💡 About Me  
-I’m passionate about building **scalable, automated, and reliable infrastructure** that accelerates software delivery.  
-With hands-on experience across **AWS, Kubernetes, Terraform, Ansible, Docker**, and **monitoring stacks**, I help organizations modernize their deployment pipelines and improve system uptime.
-
-🧠 **Career Objective:**  
-To leverage my skills in **AWS and DevOps** to design scalable, automated infrastructure that boosts deployment speed and system reliability in dynamic environments.
+🚀 **Overview** I am a **Senior DevOps Engineer** with over 5 years of experience building and managing large-scale infrastructure. I specialize in **AWS**, **Kubernetes**, and **Automation**. My focus is on creating systems that are reliable, secure, and easy to scale. Currently, I am leading the cloud migration for a **GPS Tracking Framework** designed to handle over **100,000 active devices**.
 
 ---
 
-## 🧰 Tech Stack & Tools  
+## 🛠️ Tech Stack & Skills
 
-| Category | Tools |
-|----------|-------|
-| ☁️ Cloud | AWS (EC2, S3, IAM, VPC) |
-| ⚙️ CI/CD | Jenkins, GitHub Actions |
-| 🐳 Containers | Docker, Kubernetes, Docker Compose |
-| 🏗️ IaC & Automation | Terraform, Ansible |
-| 📊 Monitoring | Prometheus, Grafana |
-| 💻 Virtualization | Proxmox |
-| 💻 Scripting | Bash |
-| 🔐 Version Control | Git, GitHub |
-| 🌐 Web Servers | Apache, Tomcat |
-| 📈 Methodologies | Agile, DevOps |
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Cloud Platforms** | AWS (EKS, EC2, VPC, S3, IAM, Route53) |
+| **Containerization** | Kubernetes (EKS, K3s), Docker, Helm |
+| **Infrastructure as Code** | Terraform, Ansible, Proxmox (Virtualization) |
+| **CI/CD & GitOps** | GitHub Actions, Jenkins, ArgoCD |
+| **Observability** | Prometheus, Grafana, Loki (LGP Stack), Grafana Alloy |
+| **Automation** | Python, Go (Golang), Bash Scripting |
+| **Databases** | PostgreSQL (TimescaleDB), Redis Sentinel, EMQX, MongoDB |
 
 ---
 
-## 💼 Professional Experience  
+## 📈 Professional Experience & Key Projects
 
-### 🚀 DevOps Engineer @ Shauryatechnosoft *(June 2025 – Present)*
-- Built and managed **on-premise infrastructure** using **Proxmox**.  
-- Automated infrastructure using **Terraform** and **Ansible**.  
-- Designed and maintained **CI/CD pipelines** using **GitHub Actions**.  
-- Deployed and monitored applications using **Docker**, **Kubernetes**, **Prometheus**, and **Grafana**.  
-- Enhanced system uptime and deployment efficiency with proactive monitoring and automation.
+### 🚀 Senior DevOps Engineer | Shauryatechnosoft
+*June 2024 – Present*
+- **High-Scale Infrastructure:** Architecting and deploying a GPS tracking system on **AWS EKS** to support 100k+ concurrent IoT devices.
+- **IoT Clustering:** Orchestrated High-Availability **EMQX** and **Redis Sentinel** clusters using Ansible for 99.9% uptime.
+- **Monitoring & Logging:** Implemented the **LGP stack** (Loki, Grafana, Prometheus) with Grafana Alloy for full system visibility.
+- **On-Premise Management:** Managing local data centers and virtualization using **Proxmox** and ZFS storage.
 
-### 💻 Software Engineer @ Skylex Technologies Pvt. Ltd., Pune *(May 2019 – Jan 2024)*  
-- Built CI/CD pipelines using **Jenkins** and **GitLab**.  
-- Managed AWS resources including **EC2, VPC, S3, IAM**.  
-- Automated infrastructure with **Terraform**, achieving **15% cost savings**.  
-- Streamlined operations using **Bash scripting** and **Cron jobs**.  
-- Collaborated with dev and QA teams to ensure efficient deployments and issue resolution.
-
----
-
-## 🎓 Education  
-🎓 **B.E. in Computer Engineering** — Shivaji University, Kolhapur  
-*First Class with Distinction*
+### 💻 Software Engineer | Skylex Technologies, Pune
+*May 2019 – Jan 2024*
+- **Cost Optimization:** Used **Terraform** to manage AWS resources, reducing infrastructure costs by **15%**.
+- **Pipeline Automation:** Built and maintained CI/CD pipelines using Jenkins & Argocd and GitLab to speed up software delivery.
+- **Security & Secrets:** Managed application secrets and identity using AWS IAM and basic Vault setups.
+- **Scripting:** Developed various **Bash** and **Python** scripts to automate daily database backups and server health checks.
 
 ---
 
-## 🏅 Certifications  
-- **AWS Certified Solutions Architect - Associate (SAA-C03)** – AWS  
-- **Career Essentials in System Administration** – Microsoft & LinkedIn  
-- **PC Architecture & Networking** – Maharashtra Business Training Board  
-- **H+ N+ (PC Maintenance)** – MSBTE  
+## 🎓 Education & Certifications
+- **B.E. in Computer Engineering** – Shivaji University, Kolhapur (Distinction)
+- **AWS Certified Solutions Architect – Associate (SAA-C03)**
+- **Career Essentials in System Administration** – Microsoft & LinkedIn
 
 ---
 
-## 📫 Connect With Me  
-
-📧 **Email:** [vaibhavjaysingjadhav1@gmail.com](mailto:vaibhavjaysingjadhav1@gmail.com)  
-📱 **Phone:** +91 88889 22807  
-💼 **LinkedIn:** [linkedin.com/vaibhavjadhav](www.linkedin.com/in/vaibhav-1-jadhav)  
-💻 **GitHub:** [github.com/vaibhavjadhav](https://github.com/vaibhavjadhav)
+## 📊 GitHub Statistics
+![Vaibhav's Stats](https://github-readme-stats.vercel.app/api?username=Vaibhav1Jadhav&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav1Jadhav&layout=compact&theme=tokyonight)
 
 ---
 
-## 📊 GitHub Stats  
-
-![Vaibhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaibhavjadhav&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavjadhav&layout=compact&theme=radical)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=vaibhavjadhav&theme=radical)
+## 📫 Connect With Me
+- 📧 **Email:** [vaibhavjaysingjadhav1@gmail.com](mailto:vaibhavjaysingjadhav1@gmail.com)
+- 💼 **LinkedIn:** [vaibhav-1-jadhav](https://www.linkedin.com/in/vaibhav-1-jadhav)
+- 💻 **GitHub:** [Vaibhav1Jadhav](https://github.com/Vaibhav1Jadhav)
 
 ---
-
-⭐️ *“Automation is my superpower — I believe in code-driven infrastructure and continuous improvement.”*
+⭐️ *"I believe in code-driven infrastructure and continuous improvement."*
